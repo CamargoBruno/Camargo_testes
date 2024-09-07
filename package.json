@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "selenium-webdriver": "^4.24.0"
+  },
+  "name": "sprint-delta---bruno",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.0",
+    "chai": "^4.3.4"
+  },
+  "author": "Bruno Camargo",
+  "license": "ISC"
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "mocha": "^10.7.3"
+  }
+}
